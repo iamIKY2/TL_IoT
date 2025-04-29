@@ -1,0 +1,966 @@
+1744565034: mosquitto version 2.0.21 starting
+1744565034: Config loaded from /mosquitto/config/mosquitto.conf.
+1744565034: Opening ipv4 listen socket on port 1883.
+1744565034: Opening ipv6 listen socket on port 1883.
+1744565034: mosquitto version 2.0.21 running
+1744565034: New connection from 172.18.0.1:38850 on port 1883.
+1744565034: New client connected from 172.18.0.1:38850 as ESP8266Client (p2, c1, k15).
+1744565041: mosquitto version 2.0.21 terminating
+1744565041: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744565049: mosquitto version 2.0.21 starting
+1744565049: Config loaded from /mosquitto/config/mosquitto.conf.
+1744565049: Opening ipv4 listen socket on port 1883.
+1744565049: Opening ipv6 listen socket on port 1883.
+1744565049: mosquitto version 2.0.21 running
+1744565061: New connection from 172.18.0.1:48852 on port 1883.
+1744565061: New client connected from 172.18.0.1:48852 as ESP8266Client (p2, c1, k15).
+1744565159: New connection from 172.18.0.1:44846 on port 1883.
+1744565160: Client <unknown> disconnected due to protocol error.
+1744565174: New connection from 172.18.0.1:41460 on port 1883.
+1744565174: Client <unknown> disconnected due to protocol error.
+1744565189: New connection from 172.18.0.1:40868 on port 1883.
+1744565189: Client <unknown> disconnected due to protocol error.
+1744565199: New connection from 172.18.0.1:41164 on port 1883.
+1744565199: Client <unknown> disconnected due to protocol error.
+1744565214: New connection from 172.18.0.1:52960 on port 1883.
+1744565214: Client <unknown> disconnected due to protocol error.
+1744565229: New connection from 172.18.0.1:44162 on port 1883.
+1744565229: Client <unknown> disconnected due to protocol error.
+1744565239: New connection from 172.18.0.1:36098 on port 1883.
+1744565239: Client <unknown> disconnected due to protocol error.
+1744565254: New connection from 172.18.0.1:54196 on port 1883.
+1744565254: Client <unknown> disconnected due to protocol error.
+1744565269: New connection from 172.18.0.1:38100 on port 1883.
+1744565269: Client <unknown> disconnected due to protocol error.
+1744565279: New connection from 172.18.0.1:48880 on port 1883.
+1744565279: Client <unknown> disconnected due to protocol error.
+1744565294: New connection from 172.18.0.1:54516 on port 1883.
+1744565294: Client <unknown> disconnected due to protocol error.
+1744565309: New connection from 172.18.0.1:43784 on port 1883.
+1744565309: Client <unknown> disconnected due to protocol error.
+1744565319: New connection from 172.18.0.1:38224 on port 1883.
+1744565319: Client <unknown> disconnected due to protocol error.
+1744565334: New connection from 172.18.0.1:58030 on port 1883.
+1744565334: Client <unknown> disconnected due to protocol error.
+1744565349: New connection from 172.18.0.1:59406 on port 1883.
+1744565349: Client <unknown> disconnected due to protocol error.
+1744565359: New connection from 172.18.0.1:43650 on port 1883.
+1744565359: Client <unknown> disconnected due to protocol error.
+1744565374: New connection from 172.18.0.1:44446 on port 1883.
+1744565374: Client <unknown> disconnected due to protocol error.
+1744565389: New connection from 172.18.0.1:50328 on port 1883.
+1744565389: Client <unknown> disconnected due to protocol error.
+1744565399: New connection from 172.18.0.1:49468 on port 1883.
+1744565399: Client <unknown> disconnected due to protocol error.
+1744565414: New connection from 172.18.0.1:39254 on port 1883.
+1744565414: Client <unknown> disconnected due to protocol error.
+1744565429: New connection from 172.18.0.1:58756 on port 1883.
+1744565429: Client <unknown> disconnected due to protocol error.
+1744565439: New connection from 172.18.0.1:45336 on port 1883.
+1744565439: Client <unknown> disconnected due to protocol error.
+1744565454: New connection from 172.18.0.1:42448 on port 1883.
+1744565454: Client <unknown> disconnected due to protocol error.
+1744565469: New connection from 172.18.0.1:56284 on port 1883.
+1744565469: Client <unknown> disconnected due to protocol error.
+1744565479: New connection from 172.18.0.1:42222 on port 1883.
+1744565479: Client <unknown> disconnected due to protocol error.
+1744565481: New connection from 172.18.0.1:42226 on port 1883.
+1744565481: New client connected from 172.18.0.1:42226 as auto-6674BEAC-186B-4C37-5F1E-49BC43A2CEFB (p2, c1, k60).
+1744565494: New connection from 172.18.0.1:40832 on port 1883.
+1744565494: Client <unknown> disconnected due to protocol error.
+1744565509: New connection from 172.18.0.1:53558 on port 1883.
+1744565509: Client <unknown> disconnected due to protocol error.
+1744565519: New connection from 172.18.0.1:55372 on port 1883.
+1744565519: Client <unknown> disconnected due to protocol error.
+1744565534: New connection from 172.18.0.1:34406 on port 1883.
+1744565534: Client <unknown> disconnected due to protocol error.
+1744565549: New connection from 172.18.0.1:52268 on port 1883.
+1744565549: Client <unknown> disconnected due to protocol error.
+1744565559: New connection from 172.18.0.1:37906 on port 1883.
+1744565559: Client <unknown> disconnected due to protocol error.
+1744565574: New connection from 172.18.0.1:36072 on port 1883.
+1744565574: Client <unknown> disconnected due to protocol error.
+1744565589: New connection from 172.18.0.1:50228 on port 1883.
+1744565589: Client <unknown> disconnected due to protocol error.
+1744565599: New connection from 172.18.0.1:44050 on port 1883.
+1744565599: Client <unknown> disconnected due to protocol error.
+1744565614: New connection from 172.18.0.1:60694 on port 1883.
+1744565614: Client <unknown> disconnected due to protocol error.
+1744565629: New connection from 172.18.0.1:36776 on port 1883.
+1744565629: Client <unknown> disconnected due to protocol error.
+1744565639: New connection from 172.18.0.1:34920 on port 1883.
+1744565639: Client <unknown> disconnected due to protocol error.
+1744565654: New connection from 172.18.0.1:35676 on port 1883.
+1744565654: Client <unknown> disconnected due to protocol error.
+1744565669: New connection from 172.18.0.1:58278 on port 1883.
+1744565669: Client <unknown> disconnected due to protocol error.
+1744565679: New connection from 172.18.0.1:58032 on port 1883.
+1744565679: Client <unknown> disconnected due to protocol error.
+1744565694: New connection from 172.18.0.1:43832 on port 1883.
+1744565694: Client <unknown> disconnected due to protocol error.
+1744565709: New connection from 172.18.0.1:38380 on port 1883.
+1744565709: Client <unknown> disconnected due to protocol error.
+1744565719: New connection from 172.18.0.1:33958 on port 1883.
+1744565719: Client <unknown> disconnected due to protocol error.
+1744565734: New connection from 172.18.0.1:48376 on port 1883.
+1744565734: Client <unknown> disconnected due to protocol error.
+1744565749: New connection from 172.18.0.1:48230 on port 1883.
+1744565749: Client <unknown> disconnected due to protocol error.
+1744565759: New connection from 172.18.0.1:49214 on port 1883.
+1744565759: Client <unknown> disconnected due to protocol error.
+1744565774: New connection from 172.18.0.1:48256 on port 1883.
+1744565774: Client <unknown> disconnected due to protocol error.
+1744565789: New connection from 172.18.0.1:44008 on port 1883.
+1744565789: Client <unknown> disconnected due to protocol error.
+1744565930: Client auto-6674BEAC-186B-4C37-5F1E-49BC43A2CEFB closed its connection.
+1744565931: New connection from 172.18.0.1:43026 on port 1883.
+1744565931: New client connected from 172.18.0.1:43026 as auto-A8AB9175-AADD-81C6-56B3-BBA5E854107A (p2, c1, k60).
+1744565954: Client auto-A8AB9175-AADD-81C6-56B3-BBA5E854107A closed its connection.
+1744565977: Client ESP8266Client has exceeded timeout, disconnecting.
+1744565985: New connection from 172.18.0.1:43462 on port 1883.
+1744565985: New client connected from 172.18.0.1:43462 as auto-B2CBC9E0-D3D8-2D0B-58E0-AEF72444EE60 (p2, c1, k60).
+1744566126: Client auto-B2CBC9E0-D3D8-2D0B-58E0-AEF72444EE60 closed its connection.
+1744566279: New connection from 172.18.0.1:52046 on port 1883.
+1744566279: New client connected from 172.18.0.1:52046 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744566328: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1744566360: New connection from 172.18.0.1:45558 on port 1883.
+1744566360: New client connected from 172.18.0.1:45558 as auto-F585A2CD-10BF-7970-3C0A-48B8569D68C5 (p2, c1, k60).
+1744566672: Client auto-F585A2CD-10BF-7970-3C0A-48B8569D68C5 closed its connection.
+1744566681: New connection from 172.18.0.1:50218 on port 1883.
+1744566681: New client connected from 172.18.0.1:50218 as auto-16EAB9FE-4D48-4AC4-602E-9581D51466AD (p2, c1, k60).
+1744566737: New connection from 172.18.0.1:58616 on port 1883.
+1744566737: New client connected from 172.18.0.1:58616 as fuxa (p2, c1, k60).
+1744566804: Client auto-16EAB9FE-4D48-4AC4-602E-9581D51466AD closed its connection.
+1744566850: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744567072: New connection from 172.18.0.1:57768 on port 1883.
+1744567072: New client connected from 172.18.0.1:57768 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744567127: New connection from 172.18.0.1:58024 on port 1883.
+1744567127: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744567127: New client connected from 172.18.0.1:58024 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744567180: New connection from 172.18.0.1:33470 on port 1883.
+1744567180: Client fuxa already connected, closing old connection.
+1744567180: New client connected from 172.18.0.1:33470 as fuxa (p2, c1, k60).
+1744567180: Empty subscription string from 172.18.0.1, disconnecting.
+1744567180: Client fuxa disconnected due to malformed packet.
+1744567187: New connection from 172.18.0.1:43244 on port 1883.
+1744567187: New client connected from 172.18.0.1:43244 as fuxa (p2, c1, k60).
+1744567314: New connection from 172.18.0.1:59564 on port 1883.
+1744567314: Client fuxa already connected, closing old connection.
+1744567314: New client connected from 172.18.0.1:59564 as fuxa (p2, c1, k60).
+1744567322: New connection from 172.18.0.1:58554 on port 1883.
+1744567322: Client fuxa already connected, closing old connection.
+1744567322: New client connected from 172.18.0.1:58554 as fuxa (p2, c1, k60).
+1744567443: New connection from 172.18.0.1:50804 on port 1883.
+1744567443: Client fuxa already connected, closing old connection.
+1744567443: New client connected from 172.18.0.1:50804 as fuxa (p2, c1, k60).
+1744567452: New connection from 172.18.0.1:35728 on port 1883.
+1744567452: Client fuxa already connected, closing old connection.
+1744567452: New client connected from 172.18.0.1:35728 as fuxa (p2, c1, k60).
+1744567526: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1744567623: New connection from 172.18.0.1:52320 on port 1883.
+1744567623: Client fuxa already connected, closing old connection.
+1744567623: New client connected from 172.18.0.1:52320 as fuxa (p2, c1, k60).
+1744567632: New connection from 172.18.0.1:41166 on port 1883.
+1744567632: Client fuxa already connected, closing old connection.
+1744567632: New client connected from 172.18.0.1:41166 as fuxa (p2, c1, k60).
+1744567677: Client fuxa closed its connection.
+1744567677: New connection from 172.18.0.1:49894 on port 1883.
+1744567677: New client connected from 172.18.0.1:49894 as fuxa (p2, c1, k60).
+1744567703: New connection from 172.18.0.1:45640 on port 1883.
+1744567703: New client connected from 172.18.0.1:45640 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744567928: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1744568073: New connection from 172.18.0.1:51438 on port 1883.
+1744568073: New client connected from 172.18.0.1:51438 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568143: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1744568147: New connection from 172.18.0.1:46494 on port 1883.
+1744568147: New client connected from 172.18.0.1:46494 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568651: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744568699: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1744568752: New connection from 172.18.0.1:40210 on port 1883.
+1744568752: New client connected from 172.18.0.1:40210 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568804: Client fuxa closed its connection.
+1744568804: New connection from 172.18.0.1:41482 on port 1883.
+1744568804: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568804: New client connected from 172.18.0.1:41482 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568805: New connection from 172.18.0.1:41488 on port 1883.
+1744568805: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568805: New client connected from 172.18.0.1:41488 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568808: New connection from 172.18.0.1:56854 on port 1883.
+1744568808: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568808: New client connected from 172.18.0.1:56854 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568809: New connection from 172.18.0.1:56866 on port 1883.
+1744568809: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568809: New client connected from 172.18.0.1:56866 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568815: New connection from 172.18.0.1:56868 on port 1883.
+1744568815: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568815: New client connected from 172.18.0.1:56868 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568815: New connection from 172.18.0.1:56876 on port 1883.
+1744568815: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568815: New client connected from 172.18.0.1:56876 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568818: New connection from 172.18.0.1:49104 on port 1883.
+1744568818: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568818: New client connected from 172.18.0.1:49104 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568818: New connection from 172.18.0.1:49110 on port 1883.
+1744568818: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568818: New client connected from 172.18.0.1:49110 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568825: New connection from 172.18.0.1:49122 on port 1883.
+1744568825: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568825: New client connected from 172.18.0.1:49122 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568825: New connection from 172.18.0.1:49130 on port 1883.
+1744568825: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568825: New client connected from 172.18.0.1:49130 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568835: New connection from 172.18.0.1:35570 on port 1883.
+1744568835: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568835: New client connected from 172.18.0.1:35570 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568835: New connection from 172.18.0.1:35578 on port 1883.
+1744568835: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568835: New client connected from 172.18.0.1:35578 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568845: New connection from 172.18.0.1:52278 on port 1883.
+1744568845: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568845: New client connected from 172.18.0.1:52278 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568845: New connection from 172.18.0.1:52290 on port 1883.
+1744568845: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568845: New client connected from 172.18.0.1:52290 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568855: New connection from 172.18.0.1:55022 on port 1883.
+1744568855: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568855: New client connected from 172.18.0.1:55022 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568855: New connection from 172.18.0.1:55026 on port 1883.
+1744568855: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568855: New client connected from 172.18.0.1:55026 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568865: New connection from 172.18.0.1:56286 on port 1883.
+1744568865: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568865: New client connected from 172.18.0.1:56286 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568865: New connection from 172.18.0.1:56290 on port 1883.
+1744568865: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568865: New client connected from 172.18.0.1:56290 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568875: New connection from 172.18.0.1:49600 on port 1883.
+1744568875: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568875: New client connected from 172.18.0.1:49600 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568875: New connection from 172.18.0.1:49616 on port 1883.
+1744568875: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568875: New client connected from 172.18.0.1:49616 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568885: New connection from 172.18.0.1:35422 on port 1883.
+1744568885: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568885: New client connected from 172.18.0.1:35422 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568885: New connection from 172.18.0.1:35434 on port 1883.
+1744568885: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568885: New client connected from 172.18.0.1:35434 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568895: New connection from 172.18.0.1:41798 on port 1883.
+1744568895: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568895: New client connected from 172.18.0.1:41798 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568895: New connection from 172.18.0.1:41806 on port 1883.
+1744568895: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568895: New client connected from 172.18.0.1:41806 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568903: New connection from 172.18.0.1:54332 on port 1883.
+1744568903: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568903: New client connected from 172.18.0.1:54332 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568903: New connection from 172.18.0.1:54344 on port 1883.
+1744568903: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568903: New client connected from 172.18.0.1:54344 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568905: New connection from 172.18.0.1:54354 on port 1883.
+1744568905: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568905: New client connected from 172.18.0.1:54354 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568905: New connection from 172.18.0.1:54368 on port 1883.
+1744568905: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568905: New client connected from 172.18.0.1:54368 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568915: New connection from 172.18.0.1:53106 on port 1883.
+1744568915: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568915: New client connected from 172.18.0.1:53106 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568915: New connection from 172.18.0.1:53112 on port 1883.
+1744568915: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568915: New client connected from 172.18.0.1:53112 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568925: New connection from 172.18.0.1:60366 on port 1883.
+1744568925: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568925: New client connected from 172.18.0.1:60366 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568925: New connection from 172.18.0.1:60382 on port 1883.
+1744568925: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568925: New client connected from 172.18.0.1:60382 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568935: New connection from 172.18.0.1:55950 on port 1883.
+1744568935: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568935: New client connected from 172.18.0.1:55950 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568935: New connection from 172.18.0.1:55958 on port 1883.
+1744568935: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568935: New client connected from 172.18.0.1:55958 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568945: New connection from 172.18.0.1:49358 on port 1883.
+1744568945: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568945: New client connected from 172.18.0.1:49358 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568945: New connection from 172.18.0.1:49364 on port 1883.
+1744568945: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568945: New client connected from 172.18.0.1:49364 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568955: New connection from 172.18.0.1:59374 on port 1883.
+1744568955: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568955: New client connected from 172.18.0.1:59374 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568962: Client ESP8266_Sound_Sensor closed its connection.
+1744568962: New connection from 172.18.0.1:51348 on port 1883.
+1744568962: New client connected from 172.18.0.1:51348 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568977: New connection from 172.18.0.1:39646 on port 1883.
+1744568977: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568977: New client connected from 172.18.0.1:39646 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568987: New connection from 172.18.0.1:42900 on port 1883.
+1744568987: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568987: New client connected from 172.18.0.1:42900 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568987: New connection from 172.18.0.1:42902 on port 1883.
+1744568987: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568987: New client connected from 172.18.0.1:42902 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744568997: New connection from 172.18.0.1:59856 on port 1883.
+1744568997: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568997: New client connected from 172.18.0.1:59856 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744568997: New connection from 172.18.0.1:59866 on port 1883.
+1744568997: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744568997: New client connected from 172.18.0.1:59866 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569007: New connection from 172.18.0.1:42738 on port 1883.
+1744569007: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569007: New client connected from 172.18.0.1:42738 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569008: New connection from 172.18.0.1:42740 on port 1883.
+1744569008: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569008: New client connected from 172.18.0.1:42740 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569015: New connection from 172.18.0.1:42756 on port 1883.
+1744569015: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569015: New client connected from 172.18.0.1:42756 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569016: New connection from 172.18.0.1:56512 on port 1883.
+1744569016: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569016: New client connected from 172.18.0.1:56512 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569017: New connection from 172.18.0.1:56520 on port 1883.
+1744569017: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569017: New client connected from 172.18.0.1:56520 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569018: New connection from 172.18.0.1:56534 on port 1883.
+1744569018: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569018: New client connected from 172.18.0.1:56534 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569027: New connection from 172.18.0.1:43164 on port 1883.
+1744569027: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569027: New client connected from 172.18.0.1:43164 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569028: New connection from 172.18.0.1:43166 on port 1883.
+1744569028: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569028: New client connected from 172.18.0.1:43166 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569032: New connection from 172.18.0.1:43180 on port 1883.
+1744569032: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569032: New client connected from 172.18.0.1:43180 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569033: New connection from 172.18.0.1:43186 on port 1883.
+1744569033: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569033: New client connected from 172.18.0.1:43186 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569037: New connection from 172.18.0.1:39534 on port 1883.
+1744569037: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569037: New client connected from 172.18.0.1:39534 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569038: New connection from 172.18.0.1:39544 on port 1883.
+1744569038: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569038: New client connected from 172.18.0.1:39544 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569047: New connection from 172.18.0.1:33404 on port 1883.
+1744569047: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569047: New client connected from 172.18.0.1:33404 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569048: New connection from 172.18.0.1:33408 on port 1883.
+1744569048: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569048: New client connected from 172.18.0.1:33408 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569057: New connection from 172.18.0.1:53634 on port 1883.
+1744569057: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569057: New client connected from 172.18.0.1:53634 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569058: New connection from 172.18.0.1:53640 on port 1883.
+1744569058: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569058: New client connected from 172.18.0.1:53640 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569067: New connection from 172.18.0.1:51402 on port 1883.
+1744569067: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569067: New client connected from 172.18.0.1:51402 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569068: New connection from 172.18.0.1:51418 on port 1883.
+1744569068: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569068: New client connected from 172.18.0.1:51418 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569077: New connection from 172.18.0.1:51638 on port 1883.
+1744569077: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569077: New client connected from 172.18.0.1:51638 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569077: New connection from 172.18.0.1:51652 on port 1883.
+1744569077: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569077: New client connected from 172.18.0.1:51652 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569087: New connection from 172.18.0.1:43062 on port 1883.
+1744569087: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569087: New client connected from 172.18.0.1:43062 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569087: New connection from 172.18.0.1:43070 on port 1883.
+1744569087: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569087: New client connected from 172.18.0.1:43070 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569097: New connection from 172.18.0.1:45124 on port 1883.
+1744569097: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569097: New client connected from 172.18.0.1:45124 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569097: New connection from 172.18.0.1:45126 on port 1883.
+1744569097: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569097: New client connected from 172.18.0.1:45126 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569107: New connection from 172.18.0.1:47396 on port 1883.
+1744569107: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569107: New client connected from 172.18.0.1:47396 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569107: New connection from 172.18.0.1:47400 on port 1883.
+1744569107: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569107: New client connected from 172.18.0.1:47400 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569117: New connection from 172.18.0.1:52146 on port 1883.
+1744569117: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569117: New client connected from 172.18.0.1:52146 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569117: New connection from 172.18.0.1:52154 on port 1883.
+1744569117: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569117: New client connected from 172.18.0.1:52154 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569127: New connection from 172.18.0.1:41510 on port 1883.
+1744569127: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569127: New client connected from 172.18.0.1:41510 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569127: New connection from 172.18.0.1:41522 on port 1883.
+1744569127: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569127: New client connected from 172.18.0.1:41522 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569137: New connection from 172.18.0.1:35688 on port 1883.
+1744569137: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569137: New client connected from 172.18.0.1:35688 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569137: New connection from 172.18.0.1:35692 on port 1883.
+1744569137: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569137: New client connected from 172.18.0.1:35692 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569147: New connection from 172.18.0.1:59470 on port 1883.
+1744569147: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569147: New client connected from 172.18.0.1:59470 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569147: New connection from 172.18.0.1:59476 on port 1883.
+1744569147: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569147: New client connected from 172.18.0.1:59476 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569156: New connection from 172.18.0.1:49146 on port 1883.
+1744569156: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569156: New client connected from 172.18.0.1:49146 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569156: New connection from 172.18.0.1:49160 on port 1883.
+1744569156: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569156: New client connected from 172.18.0.1:49160 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569157: New connection from 172.18.0.1:49174 on port 1883.
+1744569157: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569157: New client connected from 172.18.0.1:49174 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569157: New connection from 172.18.0.1:49186 on port 1883.
+1744569157: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569157: New client connected from 172.18.0.1:49186 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569167: New connection from 172.18.0.1:40414 on port 1883.
+1744569167: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569167: New client connected from 172.18.0.1:40414 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569167: New connection from 172.18.0.1:40428 on port 1883.
+1744569167: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569167: New client connected from 172.18.0.1:40428 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569167: New connection from 172.18.0.1:40440 on port 1883.
+1744569167: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569167: New client connected from 172.18.0.1:40440 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569168: New connection from 172.18.0.1:40454 on port 1883.
+1744569168: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569168: New client connected from 172.18.0.1:40454 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569177: New connection from 172.18.0.1:55906 on port 1883.
+1744569177: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569177: New client connected from 172.18.0.1:55906 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569177: New connection from 172.18.0.1:55914 on port 1883.
+1744569177: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569177: New client connected from 172.18.0.1:55914 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569187: New connection from 172.18.0.1:57026 on port 1883.
+1744569187: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569187: New client connected from 172.18.0.1:57026 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569187: New connection from 172.18.0.1:57028 on port 1883.
+1744569187: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569187: New client connected from 172.18.0.1:57028 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569197: New connection from 172.18.0.1:57998 on port 1883.
+1744569197: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569197: New client connected from 172.18.0.1:57998 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569219: New connection from 172.18.0.1:39706 on port 1883.
+1744569219: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569219: New client connected from 172.18.0.1:39706 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569227: New connection from 172.18.0.1:36958 on port 1883.
+1744569227: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569227: New client connected from 172.18.0.1:36958 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569227: New connection from 172.18.0.1:36972 on port 1883.
+1744569227: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569227: New client connected from 172.18.0.1:36972 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569227: New connection from 172.18.0.1:36980 on port 1883.
+1744569227: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569227: New client connected from 172.18.0.1:36980 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569237: New connection from 172.18.0.1:41334 on port 1883.
+1744569237: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569237: New client connected from 172.18.0.1:41334 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569237: New connection from 172.18.0.1:41342 on port 1883.
+1744569237: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569237: New client connected from 172.18.0.1:41342 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569240: New connection from 172.18.0.1:41358 on port 1883.
+1744569240: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569240: New client connected from 172.18.0.1:41358 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569241: New connection from 172.18.0.1:41368 on port 1883.
+1744569241: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569241: New client connected from 172.18.0.1:41368 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569247: New connection from 172.18.0.1:50762 on port 1883.
+1744569247: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569247: New client connected from 172.18.0.1:50762 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569247: New connection from 172.18.0.1:50776 on port 1883.
+1744569247: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569247: New client connected from 172.18.0.1:50776 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569257: New connection from 172.18.0.1:51858 on port 1883.
+1744569257: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569257: New client connected from 172.18.0.1:51858 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569257: New connection from 172.18.0.1:51872 on port 1883.
+1744569257: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569257: New client connected from 172.18.0.1:51872 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569267: New connection from 172.18.0.1:53270 on port 1883.
+1744569267: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569267: New client connected from 172.18.0.1:53270 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569267: New connection from 172.18.0.1:53272 on port 1883.
+1744569267: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569267: New client connected from 172.18.0.1:53272 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569268: New connection from 172.18.0.1:53274 on port 1883.
+1744569268: Client <unknown> disconnected due to protocol error.
+1744569269: New connection from 172.18.0.1:53290 on port 1883.
+1744569269: Client <unknown> disconnected due to protocol error.
+1744569277: New connection from 172.18.0.1:41546 on port 1883.
+1744569277: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569277: New client connected from 172.18.0.1:41546 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569277: New connection from 172.18.0.1:41550 on port 1883.
+1744569277: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569277: New client connected from 172.18.0.1:41550 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569287: New connection from 172.18.0.1:44006 on port 1883.
+1744569287: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569287: New client connected from 172.18.0.1:44006 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569287: New connection from 172.18.0.1:44008 on port 1883.
+1744569287: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569287: New client connected from 172.18.0.1:44008 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569297: New connection from 172.18.0.1:37628 on port 1883.
+1744569297: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569297: New client connected from 172.18.0.1:37628 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569297: New connection from 172.18.0.1:37630 on port 1883.
+1744569297: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569297: New client connected from 172.18.0.1:37630 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569307: New connection from 172.18.0.1:52188 on port 1883.
+1744569307: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569307: New client connected from 172.18.0.1:52188 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569307: New connection from 172.18.0.1:52190 on port 1883.
+1744569307: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569307: New client connected from 172.18.0.1:52190 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569317: New connection from 172.18.0.1:36672 on port 1883.
+1744569317: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569317: New client connected from 172.18.0.1:36672 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569317: New connection from 172.18.0.1:36674 on port 1883.
+1744569317: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569317: New client connected from 172.18.0.1:36674 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569327: New connection from 172.18.0.1:38984 on port 1883.
+1744569327: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569327: New client connected from 172.18.0.1:38984 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569328: New connection from 172.18.0.1:39000 on port 1883.
+1744569328: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569328: New client connected from 172.18.0.1:39000 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569337: New connection from 172.18.0.1:50084 on port 1883.
+1744569337: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569337: New client connected from 172.18.0.1:50084 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569338: New connection from 172.18.0.1:50086 on port 1883.
+1744569338: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569338: New client connected from 172.18.0.1:50086 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569338: New connection from 172.18.0.1:50100 on port 1883.
+1744569338: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569338: New client connected from 172.18.0.1:50100 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569339: New connection from 172.18.0.1:50112 on port 1883.
+1744569339: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569339: New client connected from 172.18.0.1:50112 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569347: New connection from 172.18.0.1:45292 on port 1883.
+1744569347: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569347: New client connected from 172.18.0.1:45292 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569348: New connection from 172.18.0.1:45308 on port 1883.
+1744569348: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569348: New client connected from 172.18.0.1:45308 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569357: New connection from 172.18.0.1:50836 on port 1883.
+1744569357: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569357: New client connected from 172.18.0.1:50836 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569358: New connection from 172.18.0.1:50844 on port 1883.
+1744569358: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569358: New client connected from 172.18.0.1:50844 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569367: New connection from 172.18.0.1:54238 on port 1883.
+1744569367: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569367: New client connected from 172.18.0.1:54238 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569368: New connection from 172.18.0.1:54254 on port 1883.
+1744569368: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569368: New client connected from 172.18.0.1:54254 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569370: New connection from 172.18.0.1:54260 on port 1883.
+1744569370: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569370: New client connected from 172.18.0.1:54260 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569370: Empty subscription string from 172.18.0.1, disconnecting.
+1744569370: Client ESP8266_Sound_Sensor disconnected due to malformed packet.
+1744569371: New connection from 172.18.0.1:54272 on port 1883.
+1744569371: New client connected from 172.18.0.1:54272 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569377: New connection from 172.18.0.1:41806 on port 1883.
+1744569377: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569377: New client connected from 172.18.0.1:41806 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569378: New connection from 172.18.0.1:41820 on port 1883.
+1744569378: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569378: New client connected from 172.18.0.1:41820 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569387: New connection from 172.18.0.1:57638 on port 1883.
+1744569387: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569387: New client connected from 172.18.0.1:57638 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569387: New connection from 172.18.0.1:57648 on port 1883.
+1744569387: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569387: New client connected from 172.18.0.1:57648 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569388: New connection from 172.18.0.1:57654 on port 1883.
+1744569388: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569388: New client connected from 172.18.0.1:57654 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569397: New connection from 172.18.0.1:36488 on port 1883.
+1744569397: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569397: New client connected from 172.18.0.1:36488 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569397: New connection from 172.18.0.1:36496 on port 1883.
+1744569397: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569397: New client connected from 172.18.0.1:36496 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569398: mosquitto version 2.0.21 terminating
+1744569398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744569403: mosquitto version 2.0.21 starting
+1744569403: Config loaded from /mosquitto/config/mosquitto.conf.
+1744569403: Opening ipv4 listen socket on port 1883.
+1744569403: Opening ipv6 listen socket on port 1883.
+1744569403: mosquitto version 2.0.21 running
+1744569404: New connection from 172.18.0.1:36524 on port 1883.
+1744569404: New client connected from 172.18.0.1:36524 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569416: New connection from 172.18.0.1:35594 on port 1883.
+1744569416: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569416: New client connected from 172.18.0.1:35594 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569424: New connection from 172.18.0.1:35602 on port 1883.
+1744569424: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569424: New client connected from 172.18.0.1:35602 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569424: New connection from 172.18.0.1:35610 on port 1883.
+1744569424: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569424: New client connected from 172.18.0.1:35610 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569434: New connection from 172.18.0.1:46166 on port 1883.
+1744569434: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569434: New client connected from 172.18.0.1:46166 as ESP8266_Sound_Sensor (p2, c1, k60).
+1744569434: New connection from 172.18.0.1:46176 on port 1883.
+1744569434: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569434: New client connected from 172.18.0.1:46176 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569439: New connection from 172.18.0.1:53800 on port 1883.
+1744569439: New client connected from 172.18.0.1:53800 as fuxa (p2, c1, k60).
+1744569444: New connection from 172.18.0.1:53808 on port 1883.
+1744569444: Client fuxa already connected, closing old connection.
+1744569444: New client connected from 172.18.0.1:53808 as fuxa (p2, c1, k60).
+1744569449: New connection from 172.18.0.1:45030 on port 1883.
+1744569449: Client fuxa already connected, closing old connection.
+1744569449: New client connected from 172.18.0.1:45030 as fuxa (p2, c1, k60).
+1744569538: Client fuxa closed its connection.
+1744569538: New connection from 172.18.0.1:55086 on port 1883.
+1744569538: New client connected from 172.18.0.1:55086 as fuxa (p2, c1, k60).
+1744569612: New connection from 172.18.0.1:56582 on port 1883.
+1744569612: Client ESP8266_Sound_Sensor already connected, closing old connection.
+1744569612: New client connected from 172.18.0.1:56582 as ESP8266_Sound_Sensor (p2, c1, k15).
+1744569847: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1744697332: mosquitto version 2.0.21 starting
+1744697332: Config loaded from /mosquitto/config/mosquitto.conf.
+1744697332: Opening ipv4 listen socket on port 1883.
+1744697332: Opening ipv6 listen socket on port 1883.
+1744697332: mosquitto version 2.0.21 running
+1744697381: mosquitto version 2.0.21 terminating
+1744697381: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744697543: mosquitto version 2.0.21 starting
+1744697543: Config loaded from /mosquitto/config/mosquitto.conf.
+1744697543: Opening ipv4 listen socket on port 1883.
+1744697543: Opening ipv6 listen socket on port 1883.
+1744697543: mosquitto version 2.0.21 running
+1744697667: mosquitto version 2.0.21 terminating
+1744697667: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745239624: mosquitto version 2.0.21 starting
+1745239624: Config loaded from /mosquitto/config/mosquitto.conf.
+1745239624: Opening ipv4 listen socket on port 1883.
+1745239624: Opening ipv6 listen socket on port 1883.
+1745239624: mosquitto version 2.0.21 running
+1745240619: New connection from 172.18.0.1:52064 on port 1883.
+1745240619: New client connected from 172.18.0.1:52064 as ESP8266NoiseSensor (p2, c1, k15).
+1745240660: New connection from 172.18.0.1:54044 on port 1883.
+1745240660: Client ESP8266NoiseSensor already connected, closing old connection.
+1745240660: New client connected from 172.18.0.1:54044 as ESP8266NoiseSensor (p2, c1, k15).
+1745240787: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745241425: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745243226: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745245027: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745245141: mosquitto version 2.0.21 terminating
+1745245141: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745416576: mosquitto version 2.0.21 starting
+1745416576: Config loaded from /mosquitto/config/mosquitto.conf.
+1745416576: Opening ipv4 listen socket on port 1883.
+1745416576: Opening ipv6 listen socket on port 1883.
+1745416576: mosquitto version 2.0.21 running
+1745416595: New connection from 172.18.0.1:58992 on port 1883.
+1745416595: New client connected from 172.18.0.1:58992 as ESP8266_Sound_Sensor (p2, c1, k15).
+1745416737: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1745416791: New connection from 172.18.0.1:40352 on port 1883.
+1745416791: New client connected from 172.18.0.1:40352 as ESP8266_Sound_Sensor (p2, c1, k15).
+1745416816: New connection from 172.18.0.1:39542 on port 1883.
+1745416816: New client connected from 172.18.0.1:39542 as fuxa (p2, c1, k60).
+1745418377: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745420178: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745420242: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1745420945: mosquitto version 2.0.21 terminating
+1745420945: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745463553: mosquitto version 2.0.21 starting
+1745463553: Config loaded from /mosquitto/config/mosquitto.conf.
+1745463553: Opening ipv4 listen socket on port 1883.
+1745463553: Opening ipv6 listen socket on port 1883.
+1745463553: mosquitto version 2.0.21 running
+1745463555: New connection from 172.18.0.1:58584 on port 1883.
+1745463555: New client connected from 172.18.0.1:58584 as ESP8266_Sound_Sensor (p2, c1, k15).
+1745463606: New connection from 172.18.0.1:33530 on port 1883.
+1745463606: New client connected from 172.18.0.1:33530 as fuxa (p2, c1, k60).
+1745463811: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1745463814: New connection from 172.18.0.1:38068 on port 1883.
+1745463814: New client connected from 172.18.0.1:38068 as ESP8266_Sound_Sensor (p2, c1, k15).
+1745464303: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1745465354: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745466846: New connection from 172.18.0.1:49192 on port 1883.
+1745466846: Client fuxa already connected, closing old connection.
+1745466846: New client connected from 172.18.0.1:49192 as fuxa (p2, c1, k60).
+1745466852: New connection from 172.18.0.1:49208 on port 1883.
+1745466852: Client fuxa already connected, closing old connection.
+1745466852: New client connected from 172.18.0.1:49208 as fuxa (p2, c1, k60).
+1745466859: New connection from 172.18.0.1:48384 on port 1883.
+1745466859: Client fuxa already connected, closing old connection.
+1745466859: New client connected from 172.18.0.1:48384 as fuxa (p2, c1, k60).
+1745466867: New connection from 172.18.0.1:32844 on port 1883.
+1745466867: Client fuxa already connected, closing old connection.
+1745466867: New client connected from 172.18.0.1:32844 as fuxa (p2, c1, k60).
+1745466993: New connection from 172.18.0.1:60720 on port 1883.
+1745466993: New client connected from 172.18.0.1:60720 as ESP8266_Sound_Sensor (p2, c1, k15).
+1745467002: New connection from 172.18.0.1:53862 on port 1883.
+1745467002: Client fuxa already connected, closing old connection.
+1745467002: New client connected from 172.18.0.1:53862 as fuxa (p2, c1, k60).
+1745467012: New connection from 172.18.0.1:52958 on port 1883.
+1745467012: Client fuxa already connected, closing old connection.
+1745467012: New client connected from 172.18.0.1:52958 as fuxa (p2, c1, k60).
+1745467155: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745467301: Client ESP8266_Sound_Sensor has exceeded timeout, disconnecting.
+1745468956: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745470405: Client fuxa closed its connection.
+1745512673: mosquitto version 2.0.21 starting
+1745512673: Config loaded from /mosquitto/config/mosquitto.conf.
+1745512673: Opening ipv4 listen socket on port 1883.
+1745512673: Opening ipv6 listen socket on port 1883.
+1745512673: mosquitto version 2.0.21 running
+1745512675: New connection from 172.18.0.1:43654 on port 1883.
+1745512675: New client connected from 172.18.0.1:43654 as ESP8266SoundSensor (p2, c1, k15).
+1745512977: New connection from 172.18.0.1:58788 on port 1883.
+1745512977: New client connected from 172.18.0.1:58788 as fuxa (p2, c1, k60).
+1745512985: New connection from 172.18.0.1:60496 on port 1883.
+1745512985: Client fuxa already connected, closing old connection.
+1745512985: New client connected from 172.18.0.1:60496 as fuxa (p2, c1, k60).
+1745512992: New connection from 172.18.0.1:60508 on port 1883.
+1745512992: Client fuxa already connected, closing old connection.
+1745512992: New client connected from 172.18.0.1:60508 as fuxa (p2, c1, k60).
+1745512999: Client fuxa closed its connection.
+1745512999: New connection from 172.18.0.1:54318 on port 1883.
+1745512999: New client connected from 172.18.0.1:54318 as fuxa (p2, c1, k60).
+1745513002: New connection from 172.18.0.1:45004 on port 1883.
+1745513002: Client fuxa already connected, closing old connection.
+1745513002: New client connected from 172.18.0.1:45004 as fuxa (p2, c1, k60).
+1745513009: New connection from 172.18.0.1:45012 on port 1883.
+1745513009: Client fuxa already connected, closing old connection.
+1745513009: New client connected from 172.18.0.1:45012 as fuxa (p2, c1, k60).
+1745513653: mosquitto version 2.0.21 terminating
+1745513653: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745550724: mosquitto version 2.0.21 starting
+1745550724: Config loaded from /mosquitto/config/mosquitto.conf.
+1745550724: Opening ipv4 listen socket on port 1883.
+1745550724: Opening ipv6 listen socket on port 1883.
+1745550724: mosquitto version 2.0.21 running
+1745552466: New connection from 172.18.0.1:44528 on port 1883.
+1745552466: New client connected from 172.18.0.1:44528 as fuxa (p2, c1, k60).
+1745552496: New connection from 172.18.0.1:58186 on port 1883.
+1745552496: New client connected from 172.18.0.1:58186 as ESP8266SoundSensor (p2, c1, k15).
+1745552525: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745552717: Client ESP8266SoundSensor closed its connection.
+1745552745: New connection from 172.18.0.1:49444 on port 1883.
+1745552745: New client connected from 172.18.0.1:49444 as ESP8266SoundSensor (p2, c1, k15).
+1745552818: New connection from 172.18.0.1:56960 on port 1883.
+1745552818: Client ESP8266SoundSensor already connected, closing old connection.
+1745552818: New client connected from 172.18.0.1:56960 as ESP8266SoundSensor (p2, c1, k15).
+1745552853: New connection from 172.18.0.1:34420 on port 1883.
+1745552853: Client ESP8266SoundSensor already connected, closing old connection.
+1745552853: New client connected from 172.18.0.1:34420 as ESP8266SoundSensor (p2, c1, k15).
+1745552897: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745552902: New connection from 172.18.0.1:50446 on port 1883.
+1745552902: New client connected from 172.18.0.1:50446 as ESP8266SoundSensor (p2, c1, k15).
+1745554090: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745554096: New connection from 172.18.0.1:57980 on port 1883.
+1745554096: New client connected from 172.18.0.1:57980 as ESP8266NoiseSensor (p2, c1, k15).
+1745554134: New connection from 172.18.0.1:48604 on port 1883.
+1745554134: Client ESP8266NoiseSensor already connected, closing old connection.
+1745554134: New client connected from 172.18.0.1:48604 as ESP8266NoiseSensor (p2, c1, k15).
+1745554251: New connection from 172.18.0.1:57706 on port 1883.
+1745554251: Client ESP8266NoiseSensor already connected, closing old connection.
+1745554251: New client connected from 172.18.0.1:57706 as ESP8266NoiseSensor (p2, c1, k15).
+1745554326: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745554337: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745554340: New connection from 172.18.0.1:45014 on port 1883.
+1745554340: New client connected from 172.18.0.1:45014 as ESP8266SoundSensor (p2, c1, k15).
+1745554355: New connection from 172.18.0.1:36120 on port 1883.
+1745554355: Client ESP8266SoundSensor already connected, closing old connection.
+1745554355: New client connected from 172.18.0.1:36120 as ESP8266SoundSensor (p2, c1, k15).
+1745554440: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745554446: New connection from 172.18.0.1:52980 on port 1883.
+1745554446: New client connected from 172.18.0.1:52980 as ESP8266NoiseSensor (p2, c1, k15).
+1745554536: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745554540: New connection from 172.18.0.1:40268 on port 1883.
+1745554540: New client connected from 172.18.0.1:40268 as ESP8266SoundSensor (p2, c1, k15).
+1745555246: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745555251: New connection from 172.18.0.1:54988 on port 1883.
+1745555251: New client connected from 172.18.0.1:54988 as ESP8266SoundSensor (p2, c1, k15).
+1745556127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745557928: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745558237: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745558243: New connection from 172.18.0.1:43974 on port 1883.
+1745558243: New client connected from 172.18.0.1:43974 as ESP8266NoiseSensor (p2, c1, k15).
+1745558259: New connection from 172.18.0.1:55418 on port 1883.
+1745558259: Client ESP8266NoiseSensor already connected, closing old connection.
+1745558259: New client connected from 172.18.0.1:55418 as ESP8266NoiseSensor (p2, c1, k15).
+1745558332: Client fuxa closed its connection.
+1745558332: New connection from 172.18.0.1:58688 on port 1883.
+1745558332: New client connected from 172.18.0.1:58688 as fuxa (p2, c1, k60).
+1745558333: Client fuxa closed its connection.
+1745558333: New connection from 172.18.0.1:58696 on port 1883.
+1745558333: New client connected from 172.18.0.1:58696 as fuxa (p2, c1, k60).
+1745558335: New connection from 172.18.0.1:58698 on port 1883.
+1745558335: Client fuxa already connected, closing old connection.
+1745558335: New client connected from 172.18.0.1:58698 as fuxa (p2, c1, k60).
+1745558343: New connection from 172.18.0.1:35972 on port 1883.
+1745558343: Client fuxa already connected, closing old connection.
+1745558343: New client connected from 172.18.0.1:35972 as fuxa (p2, c1, k60).
+1745558350: Client fuxa closed its connection.
+1745558350: New connection from 172.18.0.1:39070 on port 1883.
+1745558350: New client connected from 172.18.0.1:39070 as fuxa (p2, c1, k60).
+1745558379: Client fuxa closed its connection.
+1745558379: New connection from 172.18.0.1:60360 on port 1883.
+1745558379: New client connected from 172.18.0.1:60360 as fuxa (p2, c1, k60).
+1745558740: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745558746: New connection from 172.18.0.1:52974 on port 1883.
+1745558746: New client connected from 172.18.0.1:52974 as ESP8266NoiseSensor (p2, c1, k15).
+1745558814: New connection from 172.18.0.1:46768 on port 1883.
+1745558814: Client ESP8266NoiseSensor already connected, closing old connection.
+1745558814: New client connected from 172.18.0.1:46768 as ESP8266NoiseSensor (p2, c1, k15).
+1745558958: New connection from 172.18.0.1:48926 on port 1883.
+1745558958: Client ESP8266NoiseSensor already connected, closing old connection.
+1745558958: New client connected from 172.18.0.1:48926 as ESP8266NoiseSensor (p2, c1, k15).
+1745559030: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559037: New connection from 172.18.0.1:60780 on port 1883.
+1745559037: New client connected from 172.18.0.1:60780 as ESP8266NoiseSensor (p2, c1, k15).
+1745559083: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559090: New connection from 172.18.0.1:36038 on port 1883.
+1745559090: New client connected from 172.18.0.1:36038 as ESP8266NoiseSensor (p2, c1, k15).
+1745559114: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559120: New connection from 172.18.0.1:56520 on port 1883.
+1745559120: New client connected from 172.18.0.1:56520 as ESP8266NoiseSensor (p2, c1, k15).
+1745559217: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559224: New connection from 172.18.0.1:49268 on port 1883.
+1745559224: New client connected from 172.18.0.1:49268 as ESP8266NoiseSensor (p2, c1, k15).
+1745559323: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559330: New connection from 172.18.0.1:53068 on port 1883.
+1745559330: New client connected from 172.18.0.1:53068 as ESP8266NoiseSensor (p2, c1, k15).
+1745559408: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559414: New connection from 172.18.0.1:46320 on port 1883.
+1745559414: New client connected from 172.18.0.1:46320 as ESP8266NoiseSensor (p2, c1, k15).
+1745559469: New connection from 172.18.0.1:47852 on port 1883.
+1745559469: Client ESP8266NoiseSensor already connected, closing old connection.
+1745559469: New client connected from 172.18.0.1:47852 as ESP8266NoiseSensor (p2, c1, k15).
+1745559503: Client ESP8266NoiseSensor has exceeded timeout, disconnecting.
+1745559676: New connection from 172.18.0.1:42948 on port 1883.
+1745559676: New client connected from 172.18.0.1:42948 as ESP8266SoundSensor (p2, c1, k15).
+1745559729: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745559833: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745559837: New connection from 172.18.0.1:45086 on port 1883.
+1745559837: New client connected from 172.18.0.1:45086 as ESP8266SoundSensor (p2, c1, k15).
+1745559852: Client fuxa closed its connection.
+1745559852: New connection from 172.18.0.1:55632 on port 1883.
+1745559852: New client connected from 172.18.0.1:55632 as fuxa (p2, c1, k60).
+1745559855: New connection from 172.18.0.1:55642 on port 1883.
+1745559855: Client fuxa already connected, closing old connection.
+1745559855: New client connected from 172.18.0.1:55642 as fuxa (p2, c1, k60).
+1745559862: New connection from 172.18.0.1:45774 on port 1883.
+1745559862: Client fuxa already connected, closing old connection.
+1745559862: New client connected from 172.18.0.1:45774 as fuxa (p2, c1, k60).
+1745559864: Client fuxa closed its connection.
+1745559864: New connection from 172.18.0.1:45790 on port 1883.
+1745559864: New client connected from 172.18.0.1:45790 as fuxa (p2, c1, k60).
+1745559950: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745559954: New connection from 172.18.0.1:60058 on port 1883.
+1745559954: New client connected from 172.18.0.1:60058 as ESP8266SoundSensor (p2, c1, k15).
+1745559999: Client fuxa closed its connection.
+1745559999: New connection from 172.18.0.1:45226 on port 1883.
+1745559999: New client connected from 172.18.0.1:45226 as fuxa (p2, c1, k60).
+1745560001: New connection from 172.18.0.1:45242 on port 1883.
+1745560001: Client fuxa already connected, closing old connection.
+1745560001: New client connected from 172.18.0.1:45242 as fuxa (p2, c1, k60).
+1745560009: New connection from 172.18.0.1:43310 on port 1883.
+1745560009: Client fuxa already connected, closing old connection.
+1745560009: New client connected from 172.18.0.1:43310 as fuxa (p2, c1, k60).
+1745560011: Client fuxa closed its connection.
+1745560011: New connection from 172.18.0.1:43326 on port 1883.
+1745560011: New client connected from 172.18.0.1:43326 as fuxa (p2, c1, k60).
+1745560250: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745560255: New connection from 172.18.0.1:51088 on port 1883.
+1745560255: New client connected from 172.18.0.1:51088 as ESP8266SoundSensor (p2, c1, k15).
+1745560536: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745560541: New connection from 172.18.0.1:58250 on port 1883.
+1745560541: New client connected from 172.18.0.1:58250 as ESP8266SoundSensor (p2, c1, k15).
+1745560775: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745560780: New connection from 172.18.0.1:55544 on port 1883.
+1745560780: New client connected from 172.18.0.1:55544 as ESP8266SoundSensor (p2, c1, k15).
+1745560795: New connection from 172.18.0.1:45776 on port 1883.
+1745560795: Client fuxa already connected, closing old connection.
+1745560795: New client connected from 172.18.0.1:45776 as fuxa (p2, c1, k60).
+1745560801: New connection from 172.18.0.1:48120 on port 1883.
+1745560801: Client fuxa already connected, closing old connection.
+1745560801: New client connected from 172.18.0.1:48120 as fuxa (p2, c1, k60).
+1745560803: Client fuxa closed its connection.
+1745560803: New connection from 172.18.0.1:48134 on port 1883.
+1745560803: New client connected from 172.18.0.1:48134 as fuxa (p2, c1, k60).
+1745560886: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745560890: New connection from 172.18.0.1:56942 on port 1883.
+1745560890: New client connected from 172.18.0.1:56942 as ESP8266SoundSensor (p2, c1, k15).
+1745561530: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745562296: New connection from 172.18.0.1:48804 on port 1883.
+1745562296: Client ESP8266SoundSensor already connected, closing old connection.
+1745562296: New client connected from 172.18.0.1:48804 as ESP8266SoundSensor (p2, c1, k15).
+1745562858: New connection from 172.18.0.1:34298 on port 1883.
+1745562858: New client connected from 172.18.0.1:34298 as mqttx_d5cb1fae (p5, c1, k60).
+1745562900: New connection from 172.18.0.1:32848 on port 1883.
+1745562900: Client ESP8266SoundSensor already connected, closing old connection.
+1745562900: New client connected from 172.18.0.1:32848 as ESP8266SoundSensor (p2, c1, k15).
+1745562958: Client mqttx_d5cb1fae closed its connection.
+1745562976: New connection from 172.18.0.1:45050 on port 1883.
+1745562976: Client ESP8266SoundSensor already connected, closing old connection.
+1745562976: New client connected from 172.18.0.1:45050 as ESP8266SoundSensor (p2, c1, k15).
+1745563331: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745564369: Client fuxa closed its connection.
+1745564369: New connection from 172.18.0.1:34650 on port 1883.
+1745564369: New client connected from 172.18.0.1:34650 as fuxa (p2, c1, k60).
+1745564512: New connection from 172.18.0.1:42996 on port 1883.
+1745564512: Client ESP8266SoundSensor already connected, closing old connection.
+1745564512: New client connected from 172.18.0.1:42996 as ESP8266SoundSensor (p2, c1, k15).
+1745564543: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745565106: mosquitto version 2.0.21 terminating
+1745565106: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745565367: mosquitto version 2.0.21 starting
+1745565367: Config loaded from /mosquitto/config/mosquitto.conf.
+1745565367: Opening ipv4 listen socket on port 1883.
+1745565367: Opening ipv6 listen socket on port 1883.
+1745565367: mosquitto version 2.0.21 running
+1745565369: New connection from 172.18.0.1:40996 on port 1883.
+1745565369: New client connected from 172.18.0.1:40996 as fuxa (p2, c1, k60).
+1745565385: Client fuxa closed its connection.
+1745565694: New connection from 172.18.0.1:48198 on port 1883.
+1745565694: New client connected from 172.18.0.1:48198 as ESP8266SoundSensor (p2, c1, k15).
+1745565862: Client ESP8266SoundSensor has exceeded timeout, disconnecting.
+1745565870: New connection from 172.18.0.1:38976 on port 1883.
+1745565870: New client connected from 172.18.0.1:38976 as ESP8266_Sound (p2, c1, k15).
+1745565904: Client ESP8266_Sound has exceeded timeout, disconnecting.
+1745565956: New connection from 172.18.0.1:32870 on port 1883.
+1745565956: New client connected from 172.18.0.1:32870 as ESP8266_Sound (p2, c1, k15).
+1745565999: Client ESP8266_Sound has exceeded timeout, disconnecting.
+1745566648: New connection from 172.18.0.1:46592 on port 1883.
+1745566648: New client connected from 172.18.0.1:46592 as fuxa (p2, c1, k60).
+1745566671: New connection from 172.18.0.1:39904 on port 1883.
+1745566671: Client fuxa already connected, closing old connection.
+1745566671: New client connected from 172.18.0.1:39904 as fuxa (p2, c1, k60).
+1745566678: New connection from 172.18.0.1:39914 on port 1883.
+1745566678: Client fuxa already connected, closing old connection.
+1745566678: New client connected from 172.18.0.1:39914 as fuxa (p2, c1, k60).
+1745566685: New connection from 172.18.0.1:38742 on port 1883.
+1745566685: Client fuxa already connected, closing old connection.
+1745566685: New client connected from 172.18.0.1:38742 as fuxa (p2, c1, k60).
+1745566693: New connection from 172.18.0.1:47764 on port 1883.
+1745566693: Client fuxa already connected, closing old connection.
+1745566693: New client connected from 172.18.0.1:47764 as fuxa (p2, c1, k60).
+1745566855: New connection from 172.18.0.1:54166 on port 1883.
+1745566855: Client fuxa already connected, closing old connection.
+1745566855: New client connected from 172.18.0.1:54166 as fuxa (p2, c1, k60).
+1745566863: New connection from 172.18.0.1:50902 on port 1883.
+1745566863: Client fuxa already connected, closing old connection.
+1745566863: New client connected from 172.18.0.1:50902 as fuxa (p2, c1, k60).
+1745566918: mosquitto version 2.0.21 terminating
+1745566918: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1745946870: mosquitto version 2.0.21 starting
+1745946870: Config loaded from /mosquitto/config/mosquitto.conf.
+1745946870: Opening ipv4 listen socket on port 1883.
+1745946870: Opening ipv6 listen socket on port 1883.
+1745946870: mosquitto version 2.0.21 running

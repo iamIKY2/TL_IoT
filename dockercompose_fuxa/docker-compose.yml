@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    container_name: mosquitto
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+    restart: unless-stopped
+
+  fuxa:
+    image: frangoteam/fuxa
+    container_name: fuxa
+    ports:
+      - "1881:1881"
+    volumes:
+      - fuxa-data:/app/data
+      - fuxa-projects:/app/projects
+    restart: unless-stopped
+
+volumes:
+  fuxa-data:
+  fuxa-projects:
