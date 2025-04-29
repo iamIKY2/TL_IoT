@@ -1,4 +1,4 @@
-# Đồ án IoT: Hệ thống Đo Âm Thanh và Theo Dõi Tiếng Ồn
+# Đề tài: Hệ thống Đo Âm Thanh và Theo Dõi Tiếng Ồn sử dụng platform FUXA
 
 ## 👥 Thành viên nhóm
 - **Châu Khang Duy**  
@@ -10,20 +10,18 @@ Xây dựng một hệ thống IoT sử dụng vi điều khiển ESP8266 và c�
 - Gửi dữ liệu đo được về máy chủ thông qua giao thức MQTT.
 - Hiển thị và giám sát dữ liệu trên nền tảng giao diện FUXA SCADA (chạy bằng Docker).
 
-Mục tiêu chính:
-- Thực hành kết nối thiết bị IoT với mạng MQTT.
-- Tìm hiểu và ứng dụng Docker để triển khai nhanh MQTT broker và FUXA.
-- Tăng cường hiểu biết về truyền thông trong hệ thống IoT.
 
 ---
 
 ## 🚀 Hướng dẫn sử dụng
 
-### 1. Yêu cầu
+### 1. Thông tin 
 - Thiết bị ESP8266 (NodeMCU hoặc tương đương).
 - Cảm biến âm thanh analog.
+- Màn hình LCD liquidcrystal_i2c
+- Đèn led RGB
 - Máy tính cài Docker và Docker Compose.
-- Kết nối mạng nội bộ giữa ESP8266 và máy tính.
+- Kết nối mạng nội bộ giữa ESP8266 và máy tính. 
 
 ---
 
@@ -32,7 +30,10 @@ Mục tiêu chính:
 #### 📁 Bước 1: Tải dockercompose_fuxa về.
 #### 📁 Bước 2: Mở cmd, đặt tới vị trí đã tải dockercompose_fuxa.
 #### 📁 Bước 3: Chạy lệnh.
+  ```
+  docker compose -f "docker-compose.yml" up -d --build   
+```
 
-
-```bash
-docker-compose up -d
+### 3. Chạy dự án
+- Port của Fuxa là 1881:1881, còn của MQTT là 1883:1883.
+- Chạy [localhost:1881](http://localhost:1881/) .
